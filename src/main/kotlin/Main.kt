@@ -1,4 +1,4 @@
-import At2020.At2020Day1Part2
+import at2020.day1.At2020Day1KTS
 fun main(args: Array<String>) {
-    At2020Day1Part2().execute()
+    At2020Day1KTS().execute()
 }
