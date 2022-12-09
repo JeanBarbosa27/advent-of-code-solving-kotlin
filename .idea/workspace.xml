@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0940ef0-1f7d-4cb9-9823-f6c12ad2fac8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/at2020/day1/At2020Day1KTS.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/at2020/day1/expense-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/At2020/At2020Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/at2020/day1/At2020Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/At2020/At2020Day1Part1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/at2020/day1/At2020Day1Part1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/At2020/At2020Day1Part2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/at2020/day1/At2020Day1Part2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +53,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/At2020/Day1" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="puzzles.my_solutions" />
     </key>
