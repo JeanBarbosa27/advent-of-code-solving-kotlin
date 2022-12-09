@@ -1,4 +1,4 @@
-package At2020
+package at2020.day1
 
 class At2020Day1Part1 : At2020Day1() {
     override var entriesToReachTargetSum = IntArray(2) { 0 }

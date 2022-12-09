@@ -1,4 +1,4 @@
-package At2020
+package at2020.day1
 
 abstract class At2020Day1 {
     protected var currentIndex = 0
@@ -16,11 +16,13 @@ abstract class At2020Day1 {
         1561, 1694, 1944, 1922, 1882, 1691, 589, 1940, 1624, 1570, 1557, 1791, 1492, 1919, 1615, 1571, 1657, 1984, 1521,
         1766, 1790, 1782, 1874, 1198, 1764, 1278, 1688, 1905, 1786, 1281
     ).sorted()
+    private val puzzleTitle = "Report Repair"
     abstract val puzzleDescription: String
     protected val targetSum: Int = 2020
     protected abstract fun searchEntriesToGetProduct(list: List<Int>)
 
     fun execute() {
+        println(puzzleTitle)
         println(puzzleDescription)
         searchEntriesToGetProduct(expenseReport)
     }
